@@ -1,1 +1,2 @@
-This is Movie Web  so simple
+This is cool Movie Web.
+So very simple and codl. Ok? yeah
